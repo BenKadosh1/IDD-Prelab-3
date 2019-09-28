@@ -12,6 +12,5 @@ Ideas:
 
 Sketches
 
-<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_1.jpg" width=450 height=450>
-<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_2.jpg" width=450 height=450>
-<img src="https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab/blob/master/Sketches_3.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Prelab-3/blob/master/Sketch12.jpg" width=450 height=450>
+<img src="https://github.com/BenKadosh1/IDD-Prelab-3/blob/master/Sketch3.jpg" width=450 height=450>
